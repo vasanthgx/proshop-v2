@@ -1,0 +1,1 @@
+This is the course with the title - "MERN From Scratch 2023 eCommerce"
